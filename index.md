@@ -5,10 +5,8 @@
 
 
 
-![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/0d/c3/d30dc363-50f5-5f17-c247-e211d43fe09a/source/392x696bb.jpg)
-![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/35/f4/55/35f455cb-dadb-b022-4f84-edd635bd66ae/source/392x696bb.jpg)
-![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/6d/71/d46d7120-96db-da09-75e3-39759007cc79/source/392x696bb.jpg)
-
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/0d/c3/d30dc363-50f5-5f17-c247-e211d43fe09a/source/392x696bb.jpg" width="200" height="355">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/35/f4/55/35f455cb-dadb-b022-4f84-edd635bd66ae/source/392x696bb.jpg" width="200" height="355">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/6d/71/d46d7120-96db-da09-75e3-39759007cc79/source/392x696bb.jpg" width="200" height="355">
 
 
