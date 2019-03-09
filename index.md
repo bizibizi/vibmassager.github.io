@@ -11,9 +11,9 @@
 
 ### Use for:
 
-◆ relax and relieve stress
+#◆ relax and relieve stress
 
-◆ soothe a baby (or yourself) to sleep
+#◆ soothe a baby (or yourself) to sleep
 
 ◆ massage to back or legs after sports
 
@@ -27,4 +27,3 @@
 ![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/6d/71/d46d7120-96db-da09-75e3-39759007cc79/source/392x696bb.jpg)
 
 ### Support or Contact bizi.apps@mail.ru
- 
