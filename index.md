@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Vibrating Massager App
 
-You can use the [editor on GitHub](https://github.com/bizibizi/vibmassager.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![alt tag](https://www.apple.com/itunes/link/images/link_badge_appstore_large.png) (https://itunes.apple.com/us/app/vibrating-massager-app/id1454067460?ls=1&mt=8)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Features:
+◆ Speed of the vibration from 1 to 100
+◆ 11 unique vibrations: Plain, Burst, Blast, Bang, Heartbeat, Pulsing, Rubato, Ding, Beat, Monster Beat, Bounce
+◆ Modern & easy to use UI
+◆ Session timer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Use for:
+◆ relax and relieve stress
+◆ soothe a baby (or yourself) to sleep
+◆ massage to back or legs after sports
+◆ test how does vibration work on your device
+◆ as a tool for certain meditation techniques
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/0d/c3/d30dc363-50f5-5f17-c247-e211d43fe09a/source/392x696bb.jpg)
+![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/35/f4/55/35f455cb-dadb-b022-4f84-edd635bd66ae/source/392x696bb.jpg)
+![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/6d/71/d46d7120-96db-da09-75e3-39759007cc79/source/392x696bb.jpg)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bizibizi/vibmassager.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Support or Contact bizi.apps@mail.ru
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
