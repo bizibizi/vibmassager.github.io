@@ -10,10 +10,15 @@
 ◆ Session timer
 
 ### Use for:
+
 ◆ relax and relieve stress
+
 ◆ soothe a baby (or yourself) to sleep
+
 ◆ massage to back or legs after sports
+
 ◆ test how does vibration work on your device
+
 ◆ as a tool for certain meditation techniques
 
 
@@ -22,5 +27,4 @@
 ![alt tag](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/6d/71/d46d7120-96db-da09-75e3-39759007cc79/source/392x696bb.jpg)
 
 ### Support or Contact bizi.apps@mail.ru
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
