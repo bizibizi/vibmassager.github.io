@@ -37,4 +37,7 @@
 ◆ as a tool for certain meditation techniques
 
 
-### Support or Contact bizi.apps@mail.ru
+
+### Support or Contact 
+
+bizi.apps@mail.ru
